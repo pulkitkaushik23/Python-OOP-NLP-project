@@ -60,15 +60,33 @@ Extract entities such as names, organizations, locations, etc., from the input t
 
 ## 📸 Application Screenshots
 
-> Screenshots will be added soon.
+### 🔐 Login Page
 
-- Login Page
-- Registration Page
-- Home Screen
-- Sentiment Analysis
-- Named Entity Recognition
+![Login](login.png)
 
 ---
+
+### 📝 Registration Page
+
+![Registration](register.png)
+
+---
+
+### 🏠 Home Screen
+
+![Home](home.png)
+
+---
+
+### 😊 Sentiment Analysis
+
+![Sentiment Analysis](sentiment_analysis.png)
+
+---
+
+### 🏷️ Named Entity Recognition (NER)
+
+![NER](ner.png)
 
 ## ▶️ How to Run
 
